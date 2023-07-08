@@ -637,4 +637,9 @@
                             background: var(--bg-color);
                             box-shadow: 0.5rem 1rem rgba(0, 0, 0, 0);
                         }
+                        .navbar s {
+                            display: block;
+                            font-size: 2rem;
+                            margin: 3rem 0;
+                        }
                     }
